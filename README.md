@@ -39,7 +39,9 @@
   [[Paper](https://openaccess.thecvf.com/content/CVPR2023/papers/Wang_Images_Speak_in_Images_A_Generalist_Painter_for_In-Context_Visual_CVPR_2023_paper.pdf)][[Code](https://github.com/baaivision/Painter)]
 
 - **SegGPT: Towards Segmenting Everything In Context** ICCV 2023
+- 
    *Xinlong Wang, Xiaosong Zhang, Yue Cao, Wen Wang, Chunhua Shen, Tiejun Huang*
+  
   [[paper](https://openaccess.thecvf.com/content/ICCV2023/papers/Wang_SegGPT_Towards_Segmenting_Everything_in_Context_ICCV_2023_paper.pdf)][[code](https://github.com/baaivision/Painter)]
 
 - **In-Context Learning Unlocked for Diffusion Models** NeurIPS 2023

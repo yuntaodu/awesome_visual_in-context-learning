@@ -38,4 +38,9 @@
 
   [[Paper](https://openaccess.thecvf.com/content/CVPR2023/papers/Wang_Images_Speak_in_Images_A_Generalist_Painter_for_In-Context_Visual_CVPR_2023_paper.pdf)][[Code](https://github.com/baaivision/Painter)]
 
+- **ImageBrush: Learning Visual In-Context Instructions for Exemplar-Based Image Manipulation** NeurIPS 2023
+   *Yasheng SUN, Yifan Yang, Houwen Peng, Yifei Shen, Yuqing Yang, Han Hu, Lili Qiu, Hideki Koike*
+    [[Paper](https://openreview.net/forum?id=o4uFFg9_TpV)]
+  
+
 

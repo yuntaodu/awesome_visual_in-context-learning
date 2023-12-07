@@ -39,12 +39,13 @@
   [[Paper](https://openaccess.thecvf.com/content/CVPR2023/papers/Wang_Images_Speak_in_Images_A_Generalist_Painter_for_In-Context_Visual_CVPR_2023_paper.pdf)][[Code](https://github.com/baaivision/Painter)]
 
 - **SegGPT: Towards Segmenting Everything In Context** ICCV 2023
-   **
+   *Xinlong Wang, Xiaosong Zhang, Yue Cao, Wen Wang, Chunhua Shen, Tiejun Huang*
   [[paper(https://openaccess.thecvf.com/content/ICCV2023/papers/Wang_SegGPT_Towards_Segmenting_Everything_in_Context_ICCV_2023_paper.pdf)]][[code](https://github.com/baaivision/Painter)]
 
 - **In-Context Learning Unlocked for Diffusion Models** NeurIPS 2023
 
-  **
+  *Zhendong Wang, Yifan Jiang, Yadong Lu, Yelong Shen, Pengcheng He, Weizhu Chen, Zhangyang Wang, Mingyuan Zhou*
+  
   [[paper](https://arxiv.org/pdf/2305.01115v1.pdf)][[code](https://github.com/Zhendong-Wang/Prompt-Diffusion)]
 
 - **ImageBrush: Learning Visual In-Context Instructions for Exemplar-Based Image Manipulation** NeurIPS 2023
@@ -55,7 +56,7 @@
 
 - **Visual Instruction Inversion: Image Editing via Visual Prompting** NeurIPS 2023
 
-  *Visual Instruction Inversion: Image Editing via Visual Prompting*
+  *Thao Nguyen, Yuheng Li, Utkarsh Ojha, Yong Jae Lee*
 
   [[paper](https://arxiv.org/abs/2307.14331)][[code](https://thaoshibe.github.io/visii/)]
 

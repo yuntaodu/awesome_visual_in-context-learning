@@ -68,6 +68,12 @@
 
   [[paper](https://arxiv.org/pdf/2311.13601.pdf)][[code](https://github.com/UX-Decoder/DINOv)]
 
+- **T-Rex: Counting by Visual Prompting** Arvix 2023.11
+
+  *Qing Jiang, Feng Li, Tianhe Ren, Shilong Liu, Zhaoyang Zeng, Kent Yu, Lei Zhang*
+
+  [[paper](https://arxiv.org/abs/2311.13596)][[code](https://trex-counting.github.io/)]
+
 - **Improving In-Context Learning in Diffusion Models with Visual Context-Modulated Prompts** Arvix 2023.12
 
   *Tianqi Chen, Yongfei Liu, Zhendong Wang, Jianbo Yuan, Quanzeng You, Hongxia Yang, Mingyuan Zhou*

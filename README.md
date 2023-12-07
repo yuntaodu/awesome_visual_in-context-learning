@@ -68,7 +68,7 @@
 
   [[paper](https://arxiv.org/pdf/2311.13601.pdf)][[code](https://github.com/UX-Decoder/DINOv)]
 
-- **Improving In-Context Learning in Diffusion Models with Visual Context-Modulated Prompts**
+- **Improving In-Context Learning in Diffusion Models with Visual Context-Modulated Prompts** Arvix 2023.12
 
   *Tianqi Chen, Yongfei Liu, Zhendong Wang, Jianbo Yuan, Quanzeng You, Hongxia Yang, Mingyuan Zhou*
 

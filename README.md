@@ -38,9 +38,33 @@
 
   [[Paper](https://openaccess.thecvf.com/content/CVPR2023/papers/Wang_Images_Speak_in_Images_A_Generalist_Painter_for_In-Context_Visual_CVPR_2023_paper.pdf)][[Code](https://github.com/baaivision/Painter)]
 
+- **In-Context Learning Unlocked for Diffusion Models** NeurIPS 2023
+
+  **
+  [[paper](https://arxiv.org/pdf/2305.01115v1.pdf)][[code](https://github.com/Zhendong-Wang/Prompt-Diffusion)]
+
 - **ImageBrush: Learning Visual In-Context Instructions for Exemplar-Based Image Manipulation** NeurIPS 2023
-   *Yasheng SUN, Yifan Yang, Houwen Peng, Yifei Shen, Yuqing Yang, Han Hu, Lili Qiu, Hideki Koike*
-    [[Paper](https://openreview.net/forum?id=o4uFFg9_TpV)]
   
+   *Yasheng SUN, Yifan Yang, Houwen Peng, Yifei Shen, Yuqing Yang, Han Hu, Lili Qiu, Hideki Koike*
+  
+    [[Paper](https://openreview.net/forum?id=o4uFFg9_TpV)]
+
+- **Visual Instruction Inversion: Image Editing via Visual Prompting**
+
+  *Visual Instruction Inversion: Image Editing via Visual Prompting*
+
+  [[paper](https://arxiv.org/abs/2307.14331)][[code](https://thaoshibe.github.io/visii/)]
+
+- **Visual In-Context Prompting** Arvix 2023.11
+
+  *Feng Li, Qing Jiang, Hao Zhang, Tianhe Ren, Shilong Liu, Xueyan Zou, Huaizhe Xu, Hongyang Li, Chunyuan Li, Jianwei Yang, Lei Zhang, Jianfeng Gao*
+
+  [[paper](https://arxiv.org/pdf/2311.13601.pdf)][[code](https://github.com/UX-Decoder/DINOv)]
+
+- **Improving In-Context Learning in Diffusion Models with Visual Context-Modulated Prompts**
+
+  *Tianqi Chen, Yongfei Liu, Zhendong Wang, Jianbo Yuan, Quanzeng You, Hongxia Yang, Mingyuan Zhou*
+
+  [[paper](https://arxiv.org/pdf/2312.01408.pdf)]
 
 

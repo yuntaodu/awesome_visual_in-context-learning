@@ -102,6 +102,10 @@
   
 - **Prompting Large Language Models with Answer Heuristics for Knowledge-based Visual Question Answering**
   
- *Zhenwei Shao, Zhou Yu, Meng Wang, Jun Yu*
+  *Zhenwei Shao, Zhou Yu, Meng Wang, Jun Yu*
 
- [[paper](https://arxiv.org/pdf/2303.01903.pdf)][[code](https://github.com/MILVLG/prophet)]
+  [[paper](https://arxiv.org/pdf/2303.01903.pdf)][[code](https://github.com/MILVLG/prophet)]
+  
+- **Flamingo: a Visual Language Model for Few-Shot Learning**
+
+  [[paper](https://arxiv.org/pdf/2204.14198.pdf)]

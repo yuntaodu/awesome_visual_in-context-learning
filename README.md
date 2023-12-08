@@ -54,7 +54,7 @@
   
    *Yasheng SUN, Yifan Yang, Houwen Peng, Yifei Shen, Yuqing Yang, Han Hu, Lili Qiu, Hideki Koike*
   
-    [[Paper](https://openreview.net/forum?id=o4uFFg9_TpV)]
+    [[Paper]([https://openreview.net/forum?id=o4uFFg9_TpV](https://arxiv.org/abs/2308.00906))]
 
 - **Visual Instruction Inversion: Image Editing via Visual Prompting** NeurIPS 2023
 

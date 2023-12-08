@@ -99,4 +99,9 @@
   *Xu Yang1, Yongliang Wu, Mingzhuo Yang, Haokun Chen, Xin Geng*
 
   [[paper](https://arxiv.org/pdf/2305.14800.pdf)][[code](https://github.com/yongliang-wu/ExploreCfg)]
+  
+- **Prompting Large Language Models with Answer Heuristics for Knowledge-based Visual Question Answering**
+  
+ *Zhenwei Shao, Zhou Yu, Meng Wang, Jun Yu*
 
+ [[paper](https://arxiv.org/pdf/2303.01903.pdf)][[code](https://github.com/MILVLG/prophet)]

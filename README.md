@@ -87,6 +87,12 @@
   *Jia Ning, Chen Li, Zheng Zhang, Zigang Geng, Qi Dai, Kun He, Han Hu*
 
   [[paper](https://arxiv.org/pdf/2301.02229v2.pdf)][[code](https://github.com/SwinTransformer/AiT)]
+
+- **GlyphControl: Glyph Conditional Control for Visual Text Generation**
+
+  *Yukang Yang， Dongnan Gui， Yuhui Yuan， Weicong Liang， Haisong Ding， Han Hu， Kai Chen*
+
+  [[paper](https://openreview.net/pdf?id=thPI8hrA4V)][[code](https://github.com/AIGText/GlyphControl-release)]
   
 
 

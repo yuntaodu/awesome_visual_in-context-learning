@@ -94,5 +94,9 @@
 
   [[paper](https://openreview.net/pdf?id=thPI8hrA4V)][[code](https://github.com/AIGText/GlyphControl-release)]
   
+- **Exploring Diverse In-Context Configurations for Image Captioning**
+  
+  *Xu Yang1, Yongliang Wu, Mingzhuo Yang, Haokun Chen, Xin Geng*
 
+  [[paper](https://arxiv.org/pdf/2305.14800.pdf)][[code](https://github.com/yongliang-wu/ExploreCfg)]
 

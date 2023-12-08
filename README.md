@@ -80,4 +80,13 @@
 
   [[paper](https://arxiv.org/pdf/2312.01408.pdf)]
 
+## Related paper
+
+- **All in Tokens: Unifying Output Space of Visual Tasks via Soft Token**
+  
+  *Jia Ning, Chen Li, Zheng Zhang, Zigang Geng, Qi Dai, Kun He, Han Hu*
+
+  [[paper](https://arxiv.org/pdf/2301.02229v2.pdf)][[code](https://github.com/SwinTransformer/AiT)]
+  
+
 

@@ -103,9 +103,35 @@
 - **Prompting Large Language Models with Answer Heuristics for Knowledge-based Visual Question Answering**
   
   *Zhenwei Shao, Zhou Yu, Meng Wang, Jun Yu*
-
+  
   [[paper](https://arxiv.org/pdf/2303.01903.pdf)][[code](https://github.com/MILVLG/prophet)]
   
 - **Flamingo: a Visual Language Model for Few-Shot Learning**
 
   [[paper](https://arxiv.org/pdf/2204.14198.pdf)]
+
+- **VECTOR-QUANTIZED IMAGE MODELING WITH IMPROVED VQGAN**
+
+  *Jiahui Yu, Xin Li, Jing Yu Koh, Han Zhang, Ruoming Pang, James Qin, Alexander Ku, Yuanzhong Xu, Jason Baldridge, Yonghui Wu*
+
+  [[paper](https://openreview.net/pdf?id=pfNyExj7z2)]
+
+- **Muse: Text-To-Image Generation via Masked Generative Transformers**
+
+  *Huiwen Chang, Han Zhang, Jarred Barber, AJ Maschinot, Jose Lezama, Lu Jiang, Ming-Hsuan Yang, Kevin Murphy, William T. Freeman, Michael Rubinstein, Yuanzhen Li, Dilip Krishnan*
+  
+  [[paper](https://openreview.net/pdf?id=hi9UssZdHR)]
+  
+- **DREAMLLM: SYNERGISTIC MULTIMODAL COMPREHENSION AND CREATION**
+
+  *Runpei Dong, Chunrui Han, Yuang Peng, Zekun Qi, Zheng Ge, Jinrong Yang, Liang Zhao, Jianjian Sun, Hongyu Zhou, Haoran Wei, Xiangwen Kong, Xiangyu Zhang, Kaisheng Ma, Li Yi*
+
+  [[paper](https://arxiv.org/pdf/2309.11499.pdf)]
+
+- **Leveraging Unpaired Data for Vision-Language Generative Models via Cycle Consistency**
+
+  [[paper](https://openreview.net/forum?id=kNjrhD67LP&noteId=VmYMF2E6jB)]
+  
+- **Scaling Autoregressive Models for Content-Rich Text-to-Image Generation**
+
+  [[paper](https://openreview.net/pdf?id=AFDcYJKhND)]

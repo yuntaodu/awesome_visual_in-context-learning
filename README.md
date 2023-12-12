@@ -80,6 +80,12 @@
 
   [[paper](https://arxiv.org/pdf/2312.01408.pdf)]
 
+- **Towards More Unified In-context Visual Understanding**
+
+  * Dianmo Sheng, Dongdong Chen, Zhentao Tan, Qiankun Liu, Qi Chu, Jianmin Bao, Tao Gong, Bin Liu, Shengwei Xu, Nenghai Yu*
+ 
+  [[paper](https://arxiv.org/pdf/2312.02520.pdf)]
+
 ## Related paper
 
 - **All in Tokens: Unifying Output Space of Visual Tasks via Soft Token**
